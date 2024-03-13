@@ -1,0 +1,21 @@
+header{
+    background-image:url(../imagembaguio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 150px;
+    padding: 80px;
+    
+    }
+   section{
+    display: flex;
+    margin-left: 200px;
+    font-size: 40px;
+    
+}
+#texto1{
+margin-left: 50px; 
+margin-right: 200px;   
+}
+ 
